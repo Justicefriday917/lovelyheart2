@@ -35,3 +35,36 @@ button:hover{
     border-color: orange;
     background-color:white;
 }
+footer a{
+    text-decoration: none;
+    color: black;
+    
+}
+footer a:hover{
+    color: orange;
+}
+@media only screen and (max-width:500px) {
+    .btext{
+        font-size: 30px;
+        text-align: center;
+        width: 100%;
+        
+    }
+    .imghidden img{
+        display:none;
+
+
+    }
+    .col {
+        
+        
+      }
+
+      
+.Mylegend{
+    width: 60px;
+    margin-left: 35%;
+    margin-top: -20px;
+    background-color: white;
+}
+}
